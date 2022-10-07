@@ -1,0 +1,15 @@
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\bin\Debug\net6.0\Fighting_Game_2.exe
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\bin\Debug\net6.0\Fighting_Game_2.deps.json
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\bin\Debug\net6.0\Fighting_Game_2.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\bin\Debug\net6.0\Fighting_Game_2.dll
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\bin\Debug\net6.0\Fighting_Game_2.pdb
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.dll
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\refint\Fighting_Game_2.dll
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.pdb
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\Fighting_Game_2.genruntimeconfig.cache
+C:\Users\arosenius.carlander\Documents\TE20A_Fightingspel2\Fighting_Game_2\Fighting_Game_2\obj\Debug\net6.0\ref\Fighting_Game_2.dll
